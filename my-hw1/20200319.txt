@@ -1,0 +1,22 @@
+Python 學習筆記
+實用的內建函式
+
+Homework 1: Transform these defination into Chinese, and try to explain it.
+Hint: You should try to use these functions through terminal.
+1. print(): print string or variable on the screen 在螢幕上印出字串或變數，字串要加' '
+2. var = input('hint string'): show hint string, read variable from keyboard then store to the variable 變數=輸入('字串'):顯示字串，儲存和標記程式內資訊
+3. type(): To show the type of data 顯示資料的類型
+4. str(): Transform any data/variable to string 轉換任何資料或變數為字串，變數前後要加' '
+5. int(): Try to transform the data to integer type 轉換資料為整數
+6. float(): Try to transform the data to float type 轉換資料為浮點數(有小數)
+
+
+Homework 2: Write a program / some programs which use these operator
+常見的運算子 (Operator)
++: 常見的加法有兩種，數字(整數或是浮點數)加法，字串加法
+-: 數字(整數或是浮點數)減法
+*: 常見的乘法有兩種，數字(整數或是浮點數)乘法，字串乘法
+/: 數字(整數或是浮點數)除法
+%: 取餘數，念作 mod; 例如判斷是不是倍數關係，或是判斷奇數偶數
+**: 取次方
+
