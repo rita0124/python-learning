@@ -20,3 +20,7 @@ Homework 2: Write a program / some programs which use these operator
 %: 取餘數，念作 mod; 例如判斷是不是倍數關係，或是判斷奇數偶數
 **: 取次方
 
+變數名稱規則
+1. 只能是一個字詞，不能有空格
+2. 只能用英文字母、數字、底線，不能用連字符號-、特殊符號(如 $、'')
+3. 不能以數字開頭，不能只有數字
