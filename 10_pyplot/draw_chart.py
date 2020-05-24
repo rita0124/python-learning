@@ -14,5 +14,5 @@ plt.plot(x, y)  # Draw the plot line by using data x and y
 plt.xlabel('橫向資料')
 plt.ylabel('取賽值')
 plt.grid()  # print the grid 格網
-plt.savefig('畫畫圖.png')  # 必須在 show 之前存檔 (先存再秀會正常, 先秀再存會存到空白檔案)
-plt.show()  # 讓圖顯示出來 (不寫這行無所謂) 
+plt.savefig('畫畫圖.png') # 必須在 show 之前存檔 (先存再秀會正常, 先秀再存會存到空白檔案)
+plt.show()  # 讓圖顯示出來 (不寫這行無所謂)
